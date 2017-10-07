@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhishekt\Desktop\ThapliyalAbhishek\PROJECT3\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ac8365c87591065db07f7bac8551504504832cd4">
+        <dex dex="C:\Users\Abhishekt\Desktop\ThapliyalAbhishek\PROJECT3\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-9.6.1_ac04e975b83784ce74b834ca8f55a24d44aefd2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhishekt\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Abhishekt\Desktop\ThapliyalAbhishek\PROJECT3\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_2a96dc9916631b12d086691a83dc0d3b929a75e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhishekt\Desktop\ThapliyalAbhishek\PROJECT3\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Abhishekt\Desktop\ThapliyalAbhishek\PROJECT3\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_2cbc5e0633339ebb2576beb043c5ec0f87aa41c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhishekt\Desktop\ThapliyalAbhishek\PROJECT3\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\Abhishekt\Desktop\ThapliyalAbhishek\PROJECT3\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_f696640a2cf3b260f15e3b24718d13c87fc2af1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhishekt\Desktop\ThapliyalAbhishek\PROJECT3\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Abhishekt\Desktop\ThapliyalAbhishek\PROJECT3\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_86db760c3e349af6d92c64c8fb832880ce536618.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhishekt\Desktop\ThapliyalAbhishek\PROJECT3\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Abhishekt\Desktop\ThapliyalAbhishek\PROJECT3\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_c113a0e82553eae73b0531be00f22c8f48c7a257.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhishekt\Desktop\ThapliyalAbhishek\PROJECT3\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Abhishekt\Desktop\ThapliyalAbhishek\PROJECT3\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_44e9f353b57b6c703ce9493d9132f3f5d910c2fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhishekt\Desktop\ThapliyalAbhishek\PROJECT3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="C:\Users\Abhishekt\Desktop\ThapliyalAbhishek\PROJECT3\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.6.1_4a3b285d13803a249be8f2aa12dd398a14628401.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhishekt\Desktop\ThapliyalAbhishek\PROJECT3\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Abhishekt\Desktop\ThapliyalAbhishek\PROJECT3\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_2c317eb793f75b23e7d1b224054e296bcd59f682.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhishekt\Desktop\ThapliyalAbhishek\PROJECT3\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Abhishekt\Desktop\ThapliyalAbhishek\PROJECT3\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_0f47eebd5016767f44ce2037095453077a088114.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhishekt\Desktop\ThapliyalAbhishek\PROJECT3\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="C:\Users\Abhishekt\Desktop\ThapliyalAbhishek\PROJECT3\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.6.1_a24379602ba23f8a37c932ca6f79e5074fb478bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhishekt\Desktop\ThapliyalAbhishek\PROJECT3\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="C:\Users\Abhishekt\Desktop\ThapliyalAbhishek\PROJECT3\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.6.1_f5f2ec314fc0c20b204db0c9fa535b8c834c6c2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhishekt\Desktop\ThapliyalAbhishek\PROJECT3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="C:\Users\Abhishekt\Desktop\ThapliyalAbhishek\PROJECT3\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.6.1_962a6b880365dfa43be08ad956e22ed5df95b7e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhishekt\Desktop\ThapliyalAbhishek\PROJECT3\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\Abhishekt\Desktop\ThapliyalAbhishek\PROJECT3\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_9af28a359c430a831ea5a9845d79a017e2255738.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhishekt\Desktop\ThapliyalAbhishek\PROJECT3\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Abhishekt\Desktop\ThapliyalAbhishek\PROJECT3\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_15299747b720187d5db0d5824368089b4938113a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhishekt\Desktop\ThapliyalAbhishek\PROJECT3\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Abhishekt\Desktop\ThapliyalAbhishek\PROJECT3\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_59bcaa2127478e37d933a7a769623a9cee6f91d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhishekt\Desktop\ThapliyalAbhishek\PROJECT3\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="C:\Users\Abhishekt\Desktop\ThapliyalAbhishek\PROJECT3\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.6.1_8fdef7b7bb12417ffa5638b6bd01c714448cb4c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhishekt\Desktop\ThapliyalAbhishek\PROJECT3\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Abhishekt\Desktop\ThapliyalAbhishek\PROJECT3\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_0124bb72dc5cc91b30c82f9daac4517e7b5bc3a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhishekt\Desktop\ThapliyalAbhishek\PROJECT3\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Abhishekt\Desktop\ThapliyalAbhishek\PROJECT3\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_060a64695b4b81e3749d33ede6d261fc36d925ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhishekt\Desktop\ThapliyalAbhishek\PROJECT3\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Abhishekt\Desktop\ThapliyalAbhishek\PROJECT3\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_c7b8071157f968a942f783b685665e2e8bb2d26d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhishekt\Desktop\ThapliyalAbhishek\PROJECT3\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Abhishekt\Desktop\ThapliyalAbhishek\PROJECT3\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_d6e225190b66739f7fc274811aabcb0398c376ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhishekt\Desktop\ThapliyalAbhishek\PROJECT3\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="C:\Users\Abhishekt\Desktop\ThapliyalAbhishek\PROJECT3\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.6.1_cee1f45727446cac4e9d733d6fce8aeb6e71c36d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhishekt\Desktop\ThapliyalAbhishek\PROJECT3\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Abhishekt\Desktop\ThapliyalAbhishek\PROJECT3\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_538bc0225e6219534ba15dd3395d3419c9e9758c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhishekt\Desktop\ThapliyalAbhishek\PROJECT3\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Abhishekt\Desktop\ThapliyalAbhishek\PROJECT3\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_03c6eac825fb53c4ff61d03ac2721637412d6677.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhishekt\Desktop\ThapliyalAbhishek\PROJECT3\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b75ecdd04a37d31b4a0da2729fc5c558962a529b">
+        <dex dex="C:\Users\Abhishekt\Desktop\ThapliyalAbhishek\PROJECT3\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-9.6.1_7d14a977d1bff071e9c0fcd9d887b0c1121647a8.jar" />
+    </item>
+
+</items>

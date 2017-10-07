@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">abhishek</string>
+    <string name="title_activity_applicationfile">applicationfile</string>
+    <string name="title_activity_chat">chat</string>
+    <string name="title_activity_groupcreate">groupcreate</string>
+    <string name="delete">delete</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_application">Application</string>
+    </resources>

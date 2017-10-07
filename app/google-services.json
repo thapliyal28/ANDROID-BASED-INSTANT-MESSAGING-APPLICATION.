@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "986402618057",
+    "firebase_url": "https://abhinew-5ee89.firebaseio.com",
+    "project_id": "abhinew-5ee89",
+    "storage_bucket": "abhinew-5ee89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986402618057:android:4058c8cceafce75d",
+        "android_client_info": {
+          "package_name": "thapliyal.abhishek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986402618057-9qn2ogiut1u6l0dtobsbgs8p1j377m5r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh1-X6Z-N1kOenl5kIryxk3IVZu3iCJd8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
